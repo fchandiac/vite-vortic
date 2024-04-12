@@ -1,0 +1,842 @@
+{
+    "type": "FeatureCollection",
+    "generator": "overpass-turbo",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+    "timestamp": "2024-04-11T21:52:47Z",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/274980522",
+          "addr:city": "Valparaíso",
+          "addr:housenumber": "926",
+          "addr:street": "Jorge Hunneus",
+          "amenity": "school",
+          "building": "yes",
+          "name": "Escuela Lorenzo Luzuriaga"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -71.593806,
+                -33.0611061
+              ],
+              [
+                -71.5937566,
+                -33.061136
+              ],
+              [
+                -71.5937311,
+                -33.0611065
+              ],
+              [
+                -71.593709,
+                -33.0611199
+              ],
+              [
+                -71.5936585,
+                -33.0610609
+              ],
+              [
+                -71.5937333,
+                -33.061022
+              ],
+              [
+                -71.593806,
+                -33.0611061
+              ]
+            ]
+          ]
+        },
+        "id": "way/274980522"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/553370382",
+          "addr:street": "Aquiles Ramírez",
+          "amenity": "school",
+          "name": "Escuela San Judas Tadeo",
+          "source": "Kaart Ground Survey 2017"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -71.6289546,
+                -33.0544985
+              ],
+              [
+                -71.629117,
+                -33.0547604
+              ],
+              [
+                -71.6288293,
+                -33.0548642
+              ],
+              [
+                -71.6287071,
+                -33.0546518
+              ],
+              [
+                -71.6289546,
+                -33.0544985
+              ]
+            ]
+          ]
+        },
+        "id": "way/553370382"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/309314773",
+          "amenity": "school"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.6311799,
+            -33.0445207
+          ]
+        },
+        "id": "node/309314773"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1739261339",
+          "addr:housenumber": "325",
+          "addr:street": "Cirilo Armstrong",
+          "amenity": "school",
+          "name": "Escuela Particular San Luis"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.6314115,
+            -33.046063
+          ]
+        },
+        "id": "node/1739261339"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1739261343",
+          "amenity": "school",
+          "name": "Colegio Gandhi"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.6333646,
+            -33.0465419
+          ]
+        },
+        "id": "node/1739261343"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1739261350",
+          "addr:city": "Valparaíso",
+          "addr:housenumber": "112",
+          "addr:street": "Guillermo Munnich",
+          "amenity": "school",
+          "name": "Colegio Nuestra Señora de La Misericordia"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.6324955,
+            -33.0448826
+          ]
+        },
+        "id": "node/1739261350"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1739261354",
+          "amenity": "school",
+          "name": "Colegio Luis Galdamez"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.6319537,
+            -33.0442621
+          ]
+        },
+        "id": "node/1739261354"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1739261357",
+          "amenity": "school",
+          "name": "Colegio Bordemar"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.6338124,
+            -33.0465667
+          ]
+        },
+        "id": "node/1739261357"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1739261360",
+          "addr:city": "Valparaíso",
+          "addr:housenumber": "4875",
+          "addr:street": "Avenida Alemania",
+          "amenity": "school",
+          "name": "Colegio Internacional"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.6320127,
+            -33.0469623
+          ]
+        },
+        "id": "node/1739261360"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3746122020",
+          "addr:city": "Valparaíso",
+          "addr:housenumber": "866",
+          "addr:street": "Alejandro Beltrán",
+          "amenity": "school",
+          "name": "Escuela Básica Piloto 1° Luis Pardo Villalón"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.6218335,
+            -33.0508044
+          ]
+        },
+        "id": "node/3746122020"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3746122024",
+          "amenity": "school",
+          "name": "Colegio Pablo Neruda"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.6227075,
+            -33.0542012
+          ]
+        },
+        "id": "node/3746122024"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/4216572989",
+          "addr:city": "Valparaíso",
+          "addr:housenumber": "2762",
+          "addr:street": "Victoria",
+          "amenity": "school",
+          "name": "Colegio San Pedro Nolasco"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.6074842,
+            -33.0491746
+          ]
+        },
+        "id": "node/4216572989"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5064819454",
+          "addr:city": "Valparaíso",
+          "addr:housenumber": "837",
+          "addr:street": "Mena",
+          "amenity": "school",
+          "name": "Centro Educativo Florida"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.6216881,
+            -33.0547966
+          ]
+        },
+        "id": "node/5064819454"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5066606087",
+          "addr:city": "Valparaíso",
+          "addr:housenumber": "744",
+          "addr:street": "Paraíso",
+          "amenity": "school",
+          "name": "Colegio Sagrado Corazón de Jesús"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.594336,
+            -33.0442542
+          ]
+        },
+        "id": "node/5066606087"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5066652299",
+          "addr:city": "Valparaíso",
+          "addr:housenumber": "335",
+          "addr:street": "Eusebio Lillo",
+          "amenity": "school",
+          "name": "Escuela Uruguay"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.6029869,
+            -33.0458496
+          ]
+        },
+        "id": "node/5066652299"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5066661756",
+          "addr:city": "Valparaíso",
+          "addr:housenumber": "126",
+          "addr:street": "Almirante Simpson",
+          "amenity": "school",
+          "name": "Liceo Coeducacional La Igualdad"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.6007882,
+            -33.0511966
+          ]
+        },
+        "id": "node/5066661756"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5066666667",
+          "addr:city": "Valparaíso",
+          "addr:housenumber": "650",
+          "addr:street": "Retamo",
+          "amenity": "school",
+          "name": "Colegio Carlos Cousiño"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.6079602,
+            -33.0507634
+          ]
+        },
+        "id": "node/5066666667"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5066668402",
+          "addr:city": "Valparaíso",
+          "addr:housenumber": "349",
+          "addr:street": "Yelcho",
+          "amenity": "school",
+          "name": "Escuela Particular Sagrada Familia de Nazareth"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.6055065,
+            -33.0534123
+          ]
+        },
+        "id": "node/5066668402"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5066671180",
+          "addr:city": "Valparaíso",
+          "addr:housenumber": "2637",
+          "addr:street": "Victoria",
+          "amenity": "school",
+          "name": "Escuela Ramón Barros Luco"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.6088231,
+            -33.0487857
+          ]
+        },
+        "id": "node/5066671180"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5066705914",
+          "addr:city": "Valparaíso",
+          "addr:housenumber": "2590",
+          "addr:street": "Avenida Pedro Montt",
+          "amenity": "school",
+          "name": "Colegio Speiro"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.6094185,
+            -33.0476188
+          ]
+        },
+        "id": "node/5066705914"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5066708996",
+          "addr:city": "Valparaíso",
+          "addr:housenumber": "2309",
+          "addr:street": "Avenida Colón",
+          "amenity": "school",
+          "name": "Colegio Inmaculada Concepción Nuestra Señora de Lourdes"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.6120627,
+            -33.0496973
+          ]
+        },
+        "id": "node/5066708996"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5066708997",
+          "addr:city": "Valparaíso",
+          "addr:street": "Avenida Francia",
+          "amenity": "school",
+          "name": "Liceo Técnico Femenino de Valparaíso"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.6130765,
+            -33.049079
+          ]
+        },
+        "id": "node/5066708997"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5066713142",
+          "addr:city": "Valparaíso",
+          "addr:street": "Avenida Colón",
+          "amenity": "school",
+          "name": "Colegio Montealegre"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.6152708,
+            -33.0495525
+          ]
+        },
+        "id": "node/5066713142"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5066729125",
+          "addr:city": "Valparaíso",
+          "addr:housenumber": "2048",
+          "addr:street": "Colon",
+          "amenity": "school",
+          "name": "Colegio Particular San Damián de Molokai"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.6155551,
+            -33.0497279
+          ]
+        },
+        "id": "node/5066729125"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5066734147",
+          "addr:city": "Valparaíso",
+          "addr:housenumber": "636",
+          "addr:street": "Carrera",
+          "amenity": "school",
+          "name": "Colegio Agustín Edwards"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.6189051,
+            -33.047799
+          ]
+        },
+        "id": "node/5066734147"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/9284214236",
+          "addr:city": "Valparaíso",
+          "addr:housenumber": "88",
+          "addr:street": "Pasaje Don Bosco",
+          "amenity": "school",
+          "name": "Colegio Salesiano Valparaíso"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.6015488,
+            -33.0494554
+          ]
+        },
+        "id": "node/9284214236"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/9284214237",
+          "addr:city": "Valparaíso",
+          "addr:housenumber": "747",
+          "addr:street": "Avenida Argentina",
+          "amenity": "school",
+          "name": "Instituto Superior de Comercio Francisco Araya Bennett",
+          "phone": "+56 32 2256803"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.6024192,
+            -33.0501072
+          ]
+        },
+        "id": "node/9284214237"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/9284214238",
+          "addr:housenumber": "871",
+          "addr:street": "Avenida Argentina",
+          "amenity": "school",
+          "name": "Liceo Juana Ross de Edwards"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.6011408,
+            -33.0525588
+          ]
+        },
+        "id": "node/9284214238"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/10961962919",
+          "addr:city": "Valparaíso",
+          "addr:housenumber": "540",
+          "addr:street": "San Francisco",
+          "amenity": "school",
+          "name": "Escuela Blas Cuevas Ramón Allende"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.6343922,
+            -33.0395947
+          ]
+        },
+        "id": "node/10961962919"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/10977337882",
+          "addr:city": "Valparaíso",
+          "addr:housenumber": "220",
+          "addr:street": "Ricardo Cumming",
+          "amenity": "school",
+          "name": "Escuela República Argentina"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.6265242,
+            -33.0450015
+          ]
+        },
+        "id": "node/10977337882"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/10977618751",
+          "addr:country": "CL",
+          "addr:housenumber": "786",
+          "addr:street": "Guillermo Rivera",
+          "amenity": "school",
+          "name": "Liceo Santa Teresa",
+          "note": "Correcciones masivas a ortografía en nombres de importaciones hechas por equipo de gendarmería"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.625395,
+            -33.0518164
+          ]
+        },
+        "id": "node/10977618751"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/10990218785",
+          "addr:city": "Valparaíso",
+          "addr:country": "CL",
+          "addr:housenumber": "760",
+          "addr:street": "Carrera",
+          "amenity": "school",
+          "name": "Escuela Especial Santa Teresita",
+          "note": "Correcciones masivas a ortografía en nombres de importaciones hechas por equipo de gendarmería"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.6193495,
+            -33.0489851
+          ]
+        },
+        "id": "node/10990218785"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/10997947303",
+          "addr:city": "Valparaíso",
+          "addr:country": "CL",
+          "addr:housenumber": "601",
+          "addr:street": "Breton",
+          "amenity": "school",
+          "name": "Escuela Especial de Lenguaje ALONKEN",
+          "note": "Correcciones masivas a ortografía en nombres de importaciones hechas por equipo de gendarmería"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.5973593,
+            -33.0430321
+          ]
+        },
+        "id": "node/10997947303"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/10998327340",
+          "addr:city": "Valparaíso",
+          "addr:country": "CL",
+          "addr:housenumber": "437",
+          "addr:street": "Yerbas Buenas",
+          "amenity": "school",
+          "name": "Centro de Educación Especial Bellavista",
+          "note": "Correcciones masivas a ortografía en nombres de importaciones hechas por equipo de gendarmería"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.6231326,
+            -33.0491842
+          ]
+        },
+        "id": "node/10998327340"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/11267859986",
+          "addr:country": "CL",
+          "amenity": "school",
+          "name": "Escuela Especial de Lenguaje Trompita de colores",
+          "note": "Correcciones masivas a ortografía en nombres de importaciones hechas por equipo de gendarmería"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.6094885,
+            -33.0645199
+          ]
+        },
+        "id": "node/11267859986"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/11267864292",
+          "addr:country": "CL",
+          "amenity": "school",
+          "name": "Colegio Auromar",
+          "note": "Correcciones masivas a ortografía en nombres de importaciones hechas por equipo de gendarmería"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.615034,
+            -33.0480247
+          ]
+        },
+        "id": "node/11267864292"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/11385559084",
+          "addr:city": "Valparaíso",
+          "addr:country": "CL",
+          "addr:housenumber": "164",
+          "addr:street": "Tocornal",
+          "amenity": "school",
+          "name": "Colegio Cenines",
+          "note": "Correcciones masivas a ortografía en nombres de importaciones hechas por equipo de gendarmería"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.6014764,
+            -33.0403966
+          ]
+        },
+        "id": "node/11385559084"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/11432718809",
+          "addr:city": "Valparaíso",
+          "addr:housenumber": "1501",
+          "addr:street": "Blanco",
+          "amenity": "school",
+          "name": "Centro Estudios y Capacitacion Para Sordos"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.6203233,
+            -33.0438047
+          ]
+        },
+        "id": "node/11432718809"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/11465591028",
+          "addr:city": "valparaiso",
+          "addr:housenumber": "203",
+          "addr:street": "Camino El Vergel",
+          "amenity": "school",
+          "name": "Escuela Básica Arturo Prat"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.6144035,
+            -33.0565505
+          ]
+        },
+        "id": "node/11465591028"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/11465833722",
+          "addr:city": "Valparaíso",
+          "addr:housenumber": "992",
+          "addr:street": "Blanco",
+          "amenity": "school",
+          "name": "Corporación Educacional Juan Luis Vives Valparaíso"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.6253618,
+            -33.0409584
+          ]
+        },
+        "id": "node/11465833722"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/11471775318",
+          "addr:city": "Valparaíso",
+          "addr:housenumber": "315",
+          "addr:street": "Guillermo Munnich",
+          "amenity": "school",
+          "name": "Colegio Puerto Paz"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.6331637,
+            -33.0464092
+          ]
+        },
+        "id": "node/11471775318"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/11473147004",
+          "addr:city": "Valparaíso",
+          "addr:housenumber": "482",
+          "addr:street": "Molina",
+          "amenity": "school",
+          "name": "Centro de Educación de Jóvenes y Adultos Pitágoras"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.6204512,
+            -33.0463495
+          ]
+        },
+        "id": "node/11473147004"
+      }
+    ]
+  }

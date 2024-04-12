@@ -1,0 +1,236 @@
+{
+    "type": "FeatureCollection",
+    "generator": "overpass-turbo",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+    "timestamp": "2024-04-11T23:02:37Z",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3393372801",
+          "addr:country": "CL",
+          "amenity": "clinic",
+          "name": "Edificio Médico Integral Dr. Enrique Deformes"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.619832,
+            -33.04735
+          ]
+        },
+        "id": "node/3393372801"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3393372824",
+          "addr:country": "CL",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Centro Médico y Dental RedSalud"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.6045306,
+            -33.042355
+          ]
+        },
+        "id": "node/3393372824"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3394749314",
+          "addr:country": "CL",
+          "amenity": "clinic",
+          "name": "Centro Regional de Sangre y Tejidos"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.6097942,
+            -33.0525146
+          ]
+        },
+        "id": "node/3394749314"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3403254398",
+          "addr:country": "CL",
+          "amenity": "clinic",
+          "name": "Clínicia Dental"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.6225214,
+            -33.0430918
+          ]
+        },
+        "id": "node/3403254398"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3429092538",
+          "addr:country": "CL",
+          "amenity": "clinic",
+          "name": "Nautilus"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.6231305,
+            -33.0427193
+          ]
+        },
+        "id": "node/3429092538"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3900867145",
+          "addr:country": "CL",
+          "alt_name": "Centro de Salud Familiar Marcelo Mena",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "CESFAM Marcelo Mena",
+          "official_name": "Centro de Salud Familiar"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.631205,
+            -33.0490165
+          ]
+        },
+        "id": "node/3900867145"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5328105655",
+          "addr:country": "CL",
+          "addr:street": "Avenida Colón",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Medicina General y Familar",
+          "source": "Kaart Ground Survey 2017"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.6149418,
+            -33.0492085
+          ]
+        },
+        "id": "node/5328105655"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5344052321",
+          "addr:country": "CL",
+          "addr:street": "Cochrane",
+          "amenity": "clinic",
+          "name": "Vida Tres",
+          "source": "Kaart Ground Survey 2017"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.6281108,
+            -33.039472
+          ]
+        },
+        "id": "node/5344052321"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5344052322",
+          "addr:country": "CL",
+          "addr:street": "Cochrane",
+          "amenity": "clinic",
+          "name": "Banmédica",
+          "source": "Kaart Ground Survey 2017"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.6281327,
+            -33.0394501
+          ]
+        },
+        "id": "node/5344052322"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/11417172597",
+          "addr:city": "Valparaíso",
+          "addr:country": "CL",
+          "addr:street": "Los Alerces",
+          "alt_name": "Centro de Salud Familiar",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "CESFAM Las Cañas",
+          "official_name": "Centro de Salud Familiar"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.6079842,
+            -33.0579605
+          ]
+        },
+        "id": "node/11417172597"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/11417200378",
+          "addr:city": "Valparaíso",
+          "addr:country": "CL",
+          "alt_name": "Centro de Salud Familiar",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "CESFAM Plaza Justicia",
+          "official_name": "Centro de Salud Familiar"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.6298024,
+            -33.039444
+          ]
+        },
+        "id": "node/11417200378"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/11417336002",
+          "addr:city": "Valparaíso",
+          "addr:country": "CL",
+          "addr:housenumber": "1701",
+          "addr:street": "Chacabuco",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Policlínica Diocesana"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.6189812,
+            -33.04613
+          ]
+        },
+        "id": "node/11417336002"
+      }
+    ]
+  }
