@@ -344,7 +344,7 @@ export default function MapComponent() {
 
     // Definir los rangos y sus colores correspondientes
     const ranges = [
-      { min: 0, max: 0.1, color: '#006400' },   // Verde oscuro
+      { min: 0, max: 0.1, color: '#00ff4c' },   // Verde oscuro
       { min: 0.1, max: 0.15, color: '#ADFF2F' }, // Verde amarillento
       { min: 0.15, max: 0.2, color: '#00FF00' },   // Verde lima
       { min: 0.21, max: 0.25, color: '#FFD700' },   // Amarillo anaranjado
